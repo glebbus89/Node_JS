@@ -1,0 +1,3 @@
+# Mathcube
+
+Math cube function
