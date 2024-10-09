@@ -8,7 +8,6 @@ const fs = require('fs');
 const port = 3000;
 
 const file = path.join(__dirname,'quantity.JSON');
-
 let obj;
 
 if (fs.existsSync(file)) {
